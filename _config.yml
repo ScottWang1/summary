@@ -28,7 +28,7 @@ twitter_username: SCOW
 github_username:  ScottWang1
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
